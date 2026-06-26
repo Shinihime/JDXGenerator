@@ -35,22 +35,6 @@ Instead of simply randomizing tags, JDX Generator follows a structured prompt fl
 
 ---
 
-# 🖼 Screenshots
-
-### Main Interface
-
-*(Screenshot coming soon)*
-
-### Example Prompt
-
-*(Screenshot coming soon)*
-
-### Generated Images
-
-*(Gallery coming soon)*
-
----
-
 # 📦 Installation
 
 ## Stable Diffusion Forge
@@ -143,3 +127,7 @@ MIT License
 ---
 
 Created by **Jedas**
+
+## ❤️ Credits
+
+Huge thanks to **@theCosmicCrafter** for creating the initial ComfyUI implementation, which served as the foundation for the official ComfyUI integration.
