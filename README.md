@@ -127,7 +127,6 @@ Examples include:
 - Saved Presets
 - Prompt History
 - Favorites
-- ComfyUI Support
 
 ---
 
