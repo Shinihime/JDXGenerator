@@ -98,7 +98,6 @@ hero
 chosen hero
 anime protagonist
 shonen hero
-academy student
 student council president
 guild master
 guild adventurer
