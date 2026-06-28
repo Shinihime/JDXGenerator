@@ -230,7 +230,7 @@ class JDXGeneratePrompt:
 
     def execute(self, jdx_config, seed):
         cfg = copy.deepcopy(jdx_config)
-        # Back-compat for workflows saved before the race/camera split.
+        # Backward compatibility for older workflows saved before v1.2.
         if "use_races" not in cfg and "use_subject" in cfg:
             cfg["use_races"] = cfg.get("use_subject", False)
         if "use_camera_settings" not in cfg and "use_camera" in cfg:
